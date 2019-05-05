@@ -19,11 +19,11 @@ So max slot for vip pepole is 5 which is reserved and regular pepole will not ge
 
 7.In one slot you can keep 2 cars or 5 bikes at a time.
 
-8.By default slot is allocated for CAR Parking. The slot is automatically converte in bike parking if Bike  will come. 
+8.By default slot is allocated for CAR Parking. The slot is automatically converted into bike parking if Bike comes. 
 
-9.For Parking that lower floor slot assign first and than higher floor.
+9.For Parking lower floor slot assign first and than higher floor.
 
-10.The slot allocation is first come first serve, so who will come first get the paking near the entrance and lower floor.
+10.The slot allocation is first come first serve basis, so who will come first get the paking near the entrance and lower floor.
 
-11.Regular person cannot get the VIP slots so it can either be empty if VIP is not  available.
+11.Regular person cannot get the VIP slots. So it can either be empty if VIP is not  available.
 
