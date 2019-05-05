@@ -19,6 +19,4 @@ public interface MemberShipService {
 	
     boolean isRepeatedCustomer(String vehicleRegistrationNumber);
 	
-	
-	
 }

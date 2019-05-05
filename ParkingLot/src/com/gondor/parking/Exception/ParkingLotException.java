@@ -6,5 +6,6 @@ public class ParkingLotException extends Exception{
     {
         super(msg);
     }
+	
 
 }

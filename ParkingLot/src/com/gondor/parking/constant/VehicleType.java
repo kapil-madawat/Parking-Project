@@ -16,4 +16,5 @@ public enum VehicleType {
 	public String getValue() {
 		return value;
 	}
+	
 }

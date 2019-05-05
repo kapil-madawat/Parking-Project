@@ -8,4 +8,5 @@ public interface ParkVehicleService extends ParkingOperation
 {
 	void  parkVehicle(VehicleType vehicleType,String vehicleRegestrationNo) throws ParkingLotException;
 	
+	
 }

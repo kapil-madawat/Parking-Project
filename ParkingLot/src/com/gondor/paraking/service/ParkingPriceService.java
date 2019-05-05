@@ -16,4 +16,5 @@ public interface ParkingPriceService {
     void addParkingPrice(String registrationNo,VehicleType vehicleType);
     
     void removeRegistrationEntry(String registrationNo);
+    
 }

@@ -64,8 +64,4 @@ public class MemberShip {
 	public void setRepeatedCustomer(boolean isRepeatedCustomer) {
 		this.isRepeatedCustomer = isRepeatedCustomer;
 	} 
-
-
-    
-
 }

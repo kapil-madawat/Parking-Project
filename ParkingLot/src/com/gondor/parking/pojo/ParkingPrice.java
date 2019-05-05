@@ -45,7 +45,5 @@ public class ParkingPrice {
 	public void setVehicleRegestrationNo(String vehicleRegestrationNo) {
 		this.vehicleRegestrationNo = vehicleRegestrationNo;
 	}
-	
-	
 
 }

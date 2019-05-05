@@ -196,5 +196,6 @@ public class ParkVehicleServiceImpl implements ParkVehicleService{
 		}
 		return isRegularSlotFull;
 	}
+	
 
 }

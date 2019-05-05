@@ -32,5 +32,4 @@ public class Floor {
 		this.floorInfo = floorInfo;
 	}
 	
-
 }

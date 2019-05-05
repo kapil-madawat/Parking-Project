@@ -74,12 +74,7 @@ public class SlotInfo {
 				+ ", slotOnTheFloor=" + slotOnTheFloor + ", registrationNoOfAllVechileOfCurrentSlot="
 				+ registrationNoOfAllVechileOfCurrentSlot + ", isReservedForVIP=" + isReservedForVIP + "]";*/
 	}
-	
-	
-	
-	
-	
-	
+
 
 
 

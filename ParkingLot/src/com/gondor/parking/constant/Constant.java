@@ -9,5 +9,6 @@ public class Constant {
 	 public static double DEFAULT_PARKING_PRICE_FOR_CAR=100;
 	 public static double DEFAULT_PARKING_PRICE_FOR_BIKE=50;
 	 public static double REPEATED_CUSTOMER_DISCOUNT = 30;
+	 
 
 }

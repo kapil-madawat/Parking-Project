@@ -93,4 +93,5 @@ public class ParkingLot {
 			slotService.printFreeSlot();
 		}
 	}
+	
 }

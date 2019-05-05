@@ -63,5 +63,7 @@ public static Map<String,MemberShip> vipMemberShipMap =new HashMap();
 		return isRepeatedCustomer;
 	}
 	
+	
+	
 
 }

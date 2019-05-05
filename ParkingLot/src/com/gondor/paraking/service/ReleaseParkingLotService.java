@@ -7,4 +7,5 @@ import com.gondor.parking.factory.ParkingOperation;
 public interface ReleaseParkingLotService extends ParkingOperation {
 
 	public void removeVehicleFromParking(VehicleType vehicleType,String vehicleRegestrationNo) throws ParkingLotException;
+	
 }
